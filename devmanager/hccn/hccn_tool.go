@@ -22,10 +22,10 @@ import (
 	"strconv"
 	"strings"
 
-	"ascend-common/common-utils/hwlog"
-	"ascend-common/common-utils/limiter"
-	"ascend-common/common-utils/utils"
-	"ascend-common/devmanager/common"
+	"github.com/caoenergy/ascend-common/common-utils/hwlog"
+	"github.com/caoenergy/ascend-common/common-utils/limiter"
+	"github.com/caoenergy/ascend-common/common-utils/utils"
+	"github.com/caoenergy/ascend-common/devmanager/common"
 )
 
 const (

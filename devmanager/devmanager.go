@@ -23,9 +23,9 @@ import (
 	"sync"
 	"time"
 
-	"ascend-common/common-utils/hwlog"
-	"ascend-common/devmanager/common"
-	"ascend-common/devmanager/dcmi"
+	"github.com/caoenergy/ascend-common/common-utils/hwlog"
+	"github.com/caoenergy/ascend-common/devmanager/common"
+	"github.com/caoenergy/ascend-common/devmanager/dcmi"
 )
 
 // DeviceInterface for common device interface

@@ -19,7 +19,7 @@ import (
 	"bytes"
 	"errors"
 
-	"ascend-common/common-utils/hwlog"
+	"github.com/caoenergy/ascend-common/common-utils/hwlog"
 )
 
 const defaultLimit = 1024

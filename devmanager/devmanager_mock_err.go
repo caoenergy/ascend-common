@@ -18,8 +18,8 @@ package devmanager
 import (
 	"errors"
 
-	"ascend-common/devmanager/common"
-	"ascend-common/devmanager/dcmi"
+	"github.com/caoenergy/ascend-common/devmanager/common"
+	"github.com/caoenergy/ascend-common/devmanager/dcmi"
 )
 
 var errorMsg = "mock error"

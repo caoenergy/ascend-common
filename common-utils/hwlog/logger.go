@@ -23,7 +23,7 @@ import (
 
 	"github.com/fsnotify/fsnotify"
 
-	"ascend-common/common-utils/utils"
+	"github.com/caoenergy/ascend-common/common-utils/utils"
 )
 
 const (

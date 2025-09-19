@@ -16,8 +16,8 @@
 package devmanager
 
 import (
-	"ascend-common/devmanager/common"
-	"ascend-common/devmanager/dcmi"
+	"github.com/caoenergy/ascend-common/devmanager/common"
+	"github.com/caoenergy/ascend-common/devmanager/dcmi"
 )
 
 // DeviceManagerMock common device manager mock for Ascend910/310P/310

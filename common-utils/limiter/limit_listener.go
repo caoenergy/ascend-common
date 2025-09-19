@@ -24,8 +24,8 @@ import (
 	"sync"
 	"time"
 
-	"ascend-common/common-utils/cache"
-	"ascend-common/common-utils/hwlog"
+	"github.com/caoenergy/ascend-common/common-utils/cache"
+	"github.com/caoenergy/ascend-common/common-utils/hwlog"
 )
 
 const (

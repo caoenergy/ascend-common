@@ -16,7 +16,7 @@
 package devmanager
 
 import (
-	"ascend-common/devmanager/dcmi"
+	"github.com/caoenergy/ascend-common/devmanager/dcmi"
 )
 
 // A310PManager Ascend310P device manager

@@ -471,9 +471,9 @@ import (
 	"time"
 	"unsafe"
 
-	"ascend-common/common-utils/hwlog"
-	"ascend-common/common-utils/utils"
-	"ascend-common/devmanager/common"
+	"github.com/caoenergy/ascend-common/common-utils/hwlog"
+	"github.com/caoenergy/ascend-common/common-utils/utils"
+	"github.com/caoenergy/ascend-common/devmanager/common"
 )
 
 // CDcmiMemoryInfoV3 the c struct of memoryInfo for v3

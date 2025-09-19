@@ -16,7 +16,7 @@
 package common
 
 import (
-	"ascend-common/devmanager/sets"
+	"github.com/caoenergy/ascend-common/devmanager/sets"
 	"math"
 )
 

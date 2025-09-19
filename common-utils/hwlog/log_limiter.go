@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"ascend-common/common-utils/cache"
+	"github.com/caoenergy/ascend-common/common-utils/cache"
 )
 
 const (

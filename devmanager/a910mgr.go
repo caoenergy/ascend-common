@@ -16,8 +16,8 @@
 package devmanager
 
 import (
-	"ascend-common/devmanager/common"
-	"ascend-common/devmanager/dcmi"
+	"github.com/caoenergy/ascend-common/devmanager/common"
+	"github.com/caoenergy/ascend-common/devmanager/dcmi"
 )
 
 // A910Manager Ascend910 device manager

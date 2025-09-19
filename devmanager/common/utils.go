@@ -21,7 +21,7 @@ import (
 	"regexp"
 	"strings"
 
-	"ascend-common/common-utils/hwlog"
+	"github.com/caoenergy/ascend-common/common-utils/hwlog"
 )
 
 var (
